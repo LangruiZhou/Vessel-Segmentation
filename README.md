@@ -1,6 +1,6 @@
-# Medical-Image-Segmentation
+# Vessel-Segmentation
 
-实验室课题：肺部3D血管/气管分割
+实验室课题：3D血管/气管分割
 
 
 
